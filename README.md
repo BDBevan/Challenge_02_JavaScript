@@ -35,6 +35,6 @@ Ability to register error handeling in both the UI and console (e.g. if input fi
 # Links to pages and repoistory
 
 Repo : 
-Pages : 
+published page : https://bdbevan.github.io/Challenge_02_JavaScript/ 
 
 
