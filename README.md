@@ -1,5 +1,7 @@
 # Challenge_02_JavaScript
 
+Please find link to published page and repositiory at the bottom of this document. 
+
 # Employee Payroll checker
 
 In this web application, we are creating an emmployee payroll tracker that will record :
@@ -17,4 +19,18 @@ There is a feature that will record all employees salary's within the listed arr
 There is a feature that will randomly select an employee from the array and log to the console 
 
 
-#
+# Features 
+
+Ability to capture employee information such as first name, last name and salary, and then display them in the UI table :
+
+Ability to register error handeling in both the UI and console (e.g. if input fields are empty, or salary is non-numerical) :
+
+Ability to average out all employees salary and log to console and to also choose a random employee : 
+
+
+# Links to pages and repoistory
+
+Repo : 
+Pages : 
+
+
