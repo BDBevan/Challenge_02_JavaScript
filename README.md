@@ -4,7 +4,7 @@ Please find link to published page and repositiory at the bottom of this documen
 
 # Employee Payroll checker
 
-In this web application, we are creating an emmployee payroll tracker that will record :
+In this web application, we are creating an employee payroll tracker that will record :
 
 - First name
 - Last Name
