@@ -22,10 +22,14 @@ There is a feature that will randomly select an employee from the array and log 
 # Features 
 
 Ability to capture employee information such as first name, last name and salary, and then display them in the UI table :
+Ability to average out all employees salary and log to console and to also choose a random employee : 
+
+![image](https://github.com/BDBevan/Challenge_02_JavaScript/assets/47439436/d1d9e668-c22a-4dcb-b3c0-cc4c7579bca1)
+
 
 Ability to register error handeling in both the UI and console (e.g. if input fields are empty, or salary is non-numerical) :
 
-Ability to average out all employees salary and log to console and to also choose a random employee : 
+![image](https://github.com/BDBevan/Challenge_02_JavaScript/assets/47439436/661d23dd-6dbc-4bf1-a465-9920abaeb880)
 
 
 # Links to pages and repoistory
